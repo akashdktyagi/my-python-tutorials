@@ -1,8 +1,8 @@
 def stringIndexing():
-    string = "Akash"
-    print(string[0:3])
-    print(string[3:])
-    print(string[-4:-1])
+    string = "AkashTyagi"
+    print(string[0:3]) # Aka
+    print(string[3:]) # shTyagi
+    print(string[-4:-1]) # yag
 
 def multiLineString():
     string = """
